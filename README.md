@@ -1,3 +1,4 @@
 # Resturant-Website
 
-yes
+made of html css and js
+
