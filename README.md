@@ -35,6 +35,7 @@ A beautifully designed and responsive Restaurant Website built using HTML, CSS, 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 📧 Contact
+
 📩 Email: 24ranjith2003@gmail.com
 
 
