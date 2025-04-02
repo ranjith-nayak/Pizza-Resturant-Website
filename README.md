@@ -41,6 +41,21 @@ Welcome to **Pizza Plaza**, the ultimate destination for delicious pizzas! 🍽�
 Wanna add more spice to this project? 🌶️ Fork the repo, make changes, and submit a pull request! 
 
 ## 🖼 Preview Images
+1) Main Page
+(![Screenshot 2025-04-02 132148](https://github.com/user-attachments/assets/29ce8527-86d6-4885-a19e-4267319be6c8)
+
+2) Menu Page
+![Screenshot 2025-04-02 132213](https://github.com/user-attachments/assets/13a738aa-85d3-411b-9ed6-14618506c008)
+
+3) Other page
+![Screenshot 2025-04-02 132221](https://github.com/user-attachments/assets/ed012f64-a8e1-4823-a144-fe179b233d20)
+
+4) Footer Page
+![Screenshot 2025-04-02 132341](https://github.com/user-attachments/assets/c98ef551-066a-4fe9-95e7-f4eeaff5c042)
+
+## 🖼 Preview Demo
+
+🎥 ![Pizza Plaza Demo](https://raw.githubusercontent.com/your-username/pizza-plaza/main/demo.mp4)
 
 
 ## 📜 License
