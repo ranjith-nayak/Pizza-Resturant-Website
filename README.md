@@ -60,5 +60,5 @@ Wanna add more spice to this project? 🌶️ Fork the repo, make changes, and s
 Licensed under the **MIT License** 
 
 ## 📩 Contact
-Need to talk pizza business? 🍕📧 Hit me up at **[24ranjith2003@example.com]**
+Need to talk pizza business? 🍕📧 Hit me up at **[24ranjith2003@gmail.com]**
 or check out my GitHub profile: [ranjith-nayak](https://github.com/ranjith-nayak) 🚀
