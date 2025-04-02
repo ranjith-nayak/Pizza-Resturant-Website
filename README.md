@@ -15,23 +15,33 @@ Welcome to **Pizza Plaza**, the ultimate destination for delicious pizzas! 🍽�
 
 ## 🛠️ Technologies Used
 🔹 **HTML** – The backbone of the website
+
 🔹 **CSS** – Styling that makes everything look 🔥
+
 🔹 **JavaScript** – For that extra pizzazz and interactivity ✨
+
 🔹 (PS- I havent uploaded the images used for these website in order tio protect my file )
 
 
 ## 🎮 How to Use
 👉 Browse through the delicious menu 🍕
+
 👉 Click on a pizza to drool over its details 🤩
+
 👉 Resize your browser to see the cool responsive design ✨
 
 ## 🔮 Future Enhancements
 🚀 Implement a backend for order processing 🛍️
+
 🚀 Add a checkout & payment system 💳
+
 🚀 User authentication for order tracking 🔐
 
 ## 🤝 Contribute
 Wanna add more spice to this project? 🌶️ Fork the repo, make changes, and submit a pull request! 
+
+## 🖼 Preview Images
+
 
 ## 📜 License
 Licensed under the **MIT License** 
