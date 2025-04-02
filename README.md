@@ -53,9 +53,7 @@ Wanna add more spice to this project? 🌶️ Fork the repo, make changes, and s
 4) Footer Page
 ![Screenshot 2025-04-02 132341](https://github.com/user-attachments/assets/c98ef551-066a-4fe9-95e7-f4eeaff5c042)
 
-## 🖼 Preview Demo
 
-🎥 ![Pizza Plaza Demo](https://raw.githubusercontent.com/your-username/pizza-plaza/main/demo.mp4)
 
 
 ## 📜 License
@@ -63,4 +61,4 @@ Licensed under the **MIT License**
 
 ## 📩 Contact
 Need to talk pizza business? 🍕📧 Hit me up at **[24ranjith2003@example.com]**
-or check out my GitHub profile: [GitHub](https://github.com/ranjith-nayak) 🚀
+or check out my GitHub profile: [ranjith-nayak](https://github.com/ranjith-nayak) 🚀
