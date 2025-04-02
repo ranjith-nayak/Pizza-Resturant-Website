@@ -9,7 +9,7 @@ Welcome to **Pizza Plaza**, the ultimate destination for delicious pizzas! 🍽�
 
 ✨ **Fully Responsive** – Looks amazing on mobiles, tablets, and desktops 📱💻
 
-✨ **JavaScript Magic** – Dynamic features like adding items to the cart 🛒
+✨ **JavaScript Magic** – Dynamic features like smooth animations 🛒
 
 ✨ **Customizable** – Modify and extend to add even more awesome features 🎨
 
